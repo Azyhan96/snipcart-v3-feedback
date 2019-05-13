@@ -1,6 +1,6 @@
 # Feedback and issues with Snipcart v3 beta
 
-Trying out the beta of Snipcart v3? Report any feebdacks or issues you have in here. Just [create a new issue](https://github.com/snipcart/snipcart-v3-feedback/issues/new).
+Trying out the beta of Snipcart v3? Report any feebdacks or issues you have in here. Just [create a new issue](https://github.com/snipcart/snipcart-v3-feedback/issues/new/choose).
 
 ## How can I get access to the beta?
 
