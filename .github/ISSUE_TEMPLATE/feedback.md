@@ -9,3 +9,6 @@ assignees: ''
 
 **Integration URL**
 If you can, provide an URL where we can see your Snipcart integration.
+
+**Feedback**
+Provide any feedback you have about the cart.
