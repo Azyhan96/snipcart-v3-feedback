@@ -8,6 +8,8 @@ Trying out the beta of Snipcart v3.0? This is the place to report bugs & issues.
 
 Simply [create a new issue here](https://github.com/snipcart/snipcart-v3-feedback/issues/new/choose).
 
+You can find the v3.0 documentation [right here](https://snipcart-docs-v3.netlify.com/).
+
 Thank you for helping us making Snipcart better for all our users :)
 
 ## How can I get access to the beta?
