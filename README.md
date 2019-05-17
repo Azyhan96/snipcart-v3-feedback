@@ -2,7 +2,7 @@
 
 Snipcart v3.0 is on the way. We're currently beta testing the new shopping cart with some of our users.
 
-![snipcart-v3](https://cl.ly/a8b3bc)
+![snipcart-v3](https://snipcart.com/media/204397/screen-shot-2019-05-17-at-110400-am.png)
 
 Trying out the beta of Snipcart v3.0? This is the place to report bugs & issues. ANY feedback is relevant at this point, so please let us know! 
 
